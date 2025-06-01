@@ -1,297 +1,502 @@
-Company Name,Job Role,Stipend
-D. E. Shaw,Software Development Engineer,150000
-Coinbase,Software Development Engineer - 1,140000
-Couchbase,Dev,125000
-Couchbase,QE,125000
-Couchbase,Support,125000
-American Express,Engineer Trainee,100000
-Arcesium,Site Reliablity Engineer Intern,100000
-Cleartrip,Software Development Engineer - 1,100000
-Confluent,Data Engineering Intern,100000
-Confluent,Business Intelligence Intern,100000
-Intuit,Software Engineer Intern,100000
-Okta,Software Engineer,100000
-Palo Alto Networks,Software Engineer,100000
-Palo Alto Networks,Business Systems Analyst,100000
-Paypal,Software Engineer Intern,100000
-Paypal,Data Science Intern,100000
-Talkdesk,,100000
-TurboML,ML Intern,100000
-Walmart,Software Development Engineer - 2,100000
-Walmart ,Intern,100000
-Walmart ,Cybersecurity Intern,100000
-Apple,Software Development Intern (IS&T),90000
-Apple,Software Development Intern (Ops),90000
-Apple,Data Science and ML Intern (Ops),90000
-Apple,Software Development Intern (Wireless),90000
-Apple,Software Engineering ML Intern (AppleCare),90000
-Visa,Software Engineer,90000
-Morgan Stanley,Technology Analyst Intern,87000
-Multiplier,Associate Software Engineer,80000
-Multiplier,Associate Product Manager Internship,80000
-NVIDIA,Software Engineering Intern,80000
-NVIDIA,Hardware Engineering Intern,80000
-PhonePe,Software Engineer,80000
-Zynga,Software Engineer Intern,80000
-Confluent,Cloud Infrastructure Engineer Intern,75000
-Confluent,Applications Engineer Intern,75000
-Deutsche Bank,"Technology, Data & Innovation Intern",75000
-Dezerv,Software Engineer,75000
-F5 ,Software Engineer Intern,75000
-Guidewire,Software Developer Intern,75000
-JPMorgan Chase & Co.,Software Engineer Intern,75000
-McKinsey,Software Development Engineer,75000
-Nike,Intern,75000
-Trilogy Innovations,Software Development Engineer Intern,75000
-Wayfair,Software Engineering Intern,75000
-ZScaler,Software Development Intern,75000
-Goldman Sachs,Analyst - GMLM,70000
-Goldman Sachs,Analyst - Operations,70000
-Arista Networks,Software Engineer,65000
-Arista Networks,Software Engineer Intern,65000
-Groww,Web Developer Intern,61000
-Adobe,Technical Consultant Intern,60000
-BT Group,Software Engineering Professional,60000
-McKesson,Software Development Engineer (Data),60000
-StockX,Associate Software Engineer,60000
-Truva,Software Engineer,60000
-Zeta,Engineering Intern,60000
-Zomato,Software Development Engineer - 1,60000
-Lumber,Full Stack Developer Intern,55000
-Udaan,Software Development Engineer Intern,55000
-Align,Engineer,50000
-Amazon,AWS Cloud Support Associate,50000
-Aveva,Software Developer,50000
-Azentio,Software Development Engineer in Test,50000
-CBX1,Software Engineer,50000
-Commvault,Software Development Engineer,50000
-DealShare,Software Development Engineer,50000
-Egnyte,Software Engineer,50000
-Gameberry Labs,Software Development Engineer,50000
-Guidewire,Product Security Intern,50000
-Guidewire,SecOps Intern,50000
-HackerRank,Software Development Engineer - 1,50000
-Hevo Data,Software Development Engineer Intern,50000
-Keysight,Software Intern,50000
-Komprise,Software Engineer,50000
-Komprise,Software Test Engineer,50000
-Körber,Software Engineer,50000
-MakeMyTrip,Software Engineer,50000
-Moengage,,50000
-Oracle,Associate Consultant,50000
-Oracle,Project Intern,50000
-Oracle,Project Intern,50000
-Practsphere,Software Intern,50000
-Samsung Semiconductors,Software Engineer (Embedded),50000
-Serko,Software Engineer,50000
-Siemens,Software Analog Intern,50000
-Siemens,Data Engineer Intern,50000
-StockX,Product Intern,50000
-Typeface,Software Engineer,50000
-Urban Company,Software Development Engineer - 1,50000
-Vyapar App,Software Engineer - 1,50000
-AT&T,Intern,49620
-Boomi,Software Engineer Intern,45000
-Boomi,Cloud Intern,45000
-Boomi,Solutions Consulting Intern,45000
-Boomi,Data Science Intern,45000
-Cimpress,Software Engineer,45000
-Cloudera,Software Engineer - 1,45000
-InMobi,Software Development Engineer - 1,45000
-Meesho,Software Development Engineer,45000
-Phillips,Software Engineer,45000
-Renesas,Analog Engineer,45000
-Renesas,Validation Engineer,45000
-Renesas,Digital Design Engineer,45000
-Renesas,Test Engineer,45000
-Smallcase,Frontend Intern,45000
-Smallcase,Backend Intern,45000
-Toshiba Software,Associate Software Engineer,45000
-Victoria's Secret,Data Scientist Intern,45000
-NXP Semiconductors,Software Engineer,42500
-BitGo,Software Engineer,42000
-Cashfree Payments,DevOps Intern,42000
-Juniper Networks,Software Engineering Intern,42000
-Ottowatt,Intern,42000
-Amuse Labs,Software Developement Intern,40000
-Aurva,Software Engineer,40000
-Bain,Analyst,40000
-Bhoomi Software,,40000
-Consuma Technologies Pvt. Ltd.,Analyst,40000
-Energy Exemplar,Software Developement Intern,40000
-FamPay,Backend Engineering Intern,40000
-G2,,40000
-GE Healthcare,Edison Engineering Developer,40000
-Gigsky,Software Engineer,40000
-Greenway Health India,Associate Software Engineer,40000
-Harman,Intern,40000
-Harman,,40000
-HPE,Software Engineer (R&D),40000
-HPE,Software Engineer (Operations),40000
-HPE,Software Engineer (CTY),40000
-IDFC First Bank,Application Engineer,40000
-Licious,Software Engineer,40000
-Progress,Software Development Intern,40000
-Sixt,Software Development Engineer - 1,40000
-Swiggy,Engineering Intern,40000
-Swiggy,Product Analytics Intern (Lynk),40000
-Swiggy,Product Management Intern,40000
-UPL,NextGen Intern,40000
-Vyapar App,Software Engineer - 1,40000
-Zanskar,Software Engineer Intern,40000
-Applied Materials,IT Solutions Management,37500
-Akamai Technologies,,35000
-Aptos,Dev Intern,35000
-Bizom,Product Trainee,35000
-Bosch,Software Intern,35000
-Consuma,Software Engineer (Backend),35000
-Datacore,Software Intern,35000
-Expedia Group,Mobile Engineering Intern,35000
-Expedia Group,Software Engineering Intern,35000
-Fidelity Investments,Data Engineering Intern,35000
-Fidelity Investments,Software Engineering Intern,35000
-FinSynth AI,Software Developement Intern,35000
-General Mills,ECP Trainee,35000
-Gigsky,,35000
-Infloblox,Graduate Apprentice,35000
-Jar App,Software Development Engineer - 1,35000
-Jones Lang Lasalle Technologies,,35000
-Logik,Software Development Engineer,35000
-Meesho,Business Analyst,35000
-Netradyne,Software Development Engineer in Test,35000
-Physics Wallah,Software Development Trainee,35000
-SAP Labs,Dev,35000
-SAP Labs,DevOps,35000
-SAP Labs,Support,35000
-SAP Labs,QA,35000
-Schneider Electric,Graduate Engineer Trainee,35000
-AMD,Software Engineer Intern,34000
-Zebra Technologies,,33600
-Progress,Business Development Representative Intern,33000
-Societe Generale,Software Engineer,32500
-Societe Generale,Cybersecurity Engineer,32500
-Signify Innovation Lab,Assistant Development Engineer,32000
-7-Eleven GSC,Cybersecurity Intern,30000
-AB InBev,Intern,30000
-Aether,Product intern,30000
-Allo Health,Software Engineering Intern,30000
-Amadeus,Software Development Engineer - 1,30000
-Ather Energy,Product Analyst Intern,30000
-Ather Energy,Ride Experience Analyst Intern,30000
-Atlair,,30000
-Baxter Healthcare,Software Engineer - 1 (Digital),30000
-Baxter Healthcare,Software Engineer - 1 (Embedded),30000
-BlackBuck,Associate Software Engineer,30000
-Broadridge,,30000
-Candescent,Software Engineer,30000
-Cars24,Software Development Engineer,30000
-Celstream,Software Engineer,30000
-Crestron,,30000
-Cynlr,Software Developer,30000
-Drongo AI,,30000
-Embitel Technologies,Trainee Engineer,30000
-Epsilon,Software Engineer,30000
-Evam Labs,Intern,30000
-Evam Labs,DS/DE/FS/UI,30000
-Garrett Motion,Cybersecurity Engineer Intern,30000
-Gnani,AI Engineer Intern,30000
-Harman,,30000
-HP,GIT Role,30000
-IBM,Software Developer (Systems),30000
-IBM,Software Developer (Software Labs),30000
-IBM,Software Developer (Cloud),30000
-iNube,Software Analyst,30000
-Meeraq,Software Intern,30000
-O9 Solutions,SDET Intern,30000
-Prime Numbers,Software Engineer - 1,30000
-Qest,Software Engineer,30000
-Rakuten,Software Engineer,30000
-Singularity Dynamics,Software Development Engineer,30000
-Superjoin,Engineering Explorer,30000
-Target,Apprentice,30000
-Tejas Networks,NMS,30000
-Tejas Networks,Hardware,30000
-Tejas Networks,Software ,30000
-eLitmus,Software Developer,29000
-3rdiTech,Student Intern,25000
-Alcon,Intern,25000
-Aptiv,,25000
-AstraZeneca,,25000
-Bizom,Presales,25000
-Bizom,Business Development Manager,25000
-Bizom,Sales Developement Representative,25000
-Bizom,Marketing,25000
-Bizom,,25000
-Bluebird,Software Engineer,25000
-ConSecure,Software Engineer - NextGen Intelligence,25000
-Digital Blanket,Engineering Intern,25000
-Digital.ai,,25000
-DISH Networks,Engineer,25000
-Dover,Software Engineer,25000
-Dover,Graduate Engineer Trainee,25000
-EPAM,Junior Software Engineer,25000
-Frappe,Software Engineering Intern,25000
-FrontM,Frontend Intern,25000
-Havells India Limited ,IoT and Software Roles,25000
-Havells India Limited ,Power Electronics and Solar Roles,25000
-IDfy,,25000
-Kenscio,Software Developer Intern,25000
-Kimberly Clark,Graduate Engineering Intern,25000
-Krazybee Services,Software Engineer,25000
-KreditBee,Software Engineer,25000
-L7 Informatics,,25000
-MatreComm,C++ Software Engineering Intern,25000
-MediBuddy,Engineering Intern,25000
-Morphle Labs,Software Testing Intern,25000
-Nokia,,25000
-Nouveau Labs,Software Engineer,25000
-OneCap,Software Development Engineer,25000
-Purple Block,Data Science Intern,25000
-SecPod,Test automation Engineer,25000
-Superleap,Technical Product Analyst,25000
-Textron,,25000
-Think 41,Full Stack Engineer,25000
-Tsalla Aerospace,Junior Engineer,25000
-Wokelo,Data Scientist,25000
-Zepto,Quality Assurance Specialist Intern,25000
-Zoomcar,DevOps Intern,25000
-msg,,22000
-Blue Hat Solutions,Android Development Intern,20000
-Blue Hat Solutions,Embedded Systems Development Intern,20000
-Bounteous x Accolite,,20000
-Collins Aerospace,Intern,20000
-ConSecure ,Software Engineer (Next-Gen Cybersecurity),20000
-Emplay,Associate Data Scientist,20000
-Fluidyn,,20000
-GW DeepConnect Technlogies,Software Engineer,20000
-Hourglass,,20000
-HP,Managed Services,20000
-Infibeam,Software Development Engineer,20000
-KPMG,Consultant Intern,20000
-KPMG,GRCS Telecom,20000
-KPMG,Digital Trust,20000
-Mphasis,,20000
-MyYogaTeacher,Software Engineer Intern,20000
-PeopleBox,Software Engineer,20000
-Raining Code Technologies,,20000
-Sahaj AI,Software Developer Intern,20000
-Shadowfax,,20000
-Tsalla Aerospace,Junior Engineer,20000
-Ziroh Labs,Swift Development Intern,20000
-Ziroh Labs,Java Development Intern,20000
-Ziroh Labs,C# Development Intern,20000
-6D Technologies,AI & Data Science Engineering Intern,18000
-Healthi,Production Support Engineer Intern,18000
-ConSecure ,PreSales,15000
-Cubic Logics,Software Development Engineer,15000
-Kapiva,Intern,15000
-Netcore,Associate Software Engineer,15000
-Nibrus Technologies,Software Engineer Intern,15000
-Ninjacart,Tech Intern,15000
-PeopleBox,SDET,15000
-SimplyFI Softech,Innovation Trainee & Innovation Engineer,15000
-Webknot Technologies,Software Developer Trainee,15000
-Winman Software,Software Engineer - L2,15000
-Winman Software,Software Engineer - L1,15000
-Conga,,12000
-ConSecure,Software Engineer - Full Stack Dev,12000
+Company Name,Role,Base,CTC
+Rubrik,,,145
+Atlassian,Software Engineer,,85
+Apple,Software Development Intern (IS&T),16,65
+Apple,Software Development Intern (Ops),16,65
+Apple,Data Science and ML Intern (Ops),16,65
+Apple,Software Development Intern (Wireless),16,65
+Apple,Software Engineering ML Intern (AppleCare),16,65
+Rubrik,,,60
+Zomato,Software Development Engineer - 1,24,56
+CRED,,,55
+D. E. Shaw,Software Development Engineer in Test,18,52
+Google,,,52
+Microsoft Inc.,,,51
+Meesho,Data Scientist - 1,22,50
+Amazon,,,42
+Palo Alto Networks,Software Engineer,14,41.96
+Palo Alto Networks,Business Systems Analyst,14,41.96
+Visa,Software Engineer,16.57,41.64
+Eightfold.ai,Product Solutions Expert - 1,16.38,37.53
+Trilogy Innovations,Software Development Engineer Intern,30,36.5
+InMobi,Software Development Engineer - 1,22,35
+BitGo,Software Engineer,15,35
+Meesho,Software Development Engineer,20,34
+Paypal,Software Engineer Intern,15,34
+Paypal,Data Science Intern,15,34
+Phonepe,,,33.57
+Palo Alto,,,33.33
+Commvault,Software Development Engineer,16,33
+Cleartrip,Software Development Engineer - 1,18,32.57
+Flipkart,Software Development Engineer - 1,18,32.57
+PhonePe,Software Engineer,19.5,32.5
+Expedia Group,Software Development Engineer - 1,15,32
+Vyapar App,Software Engineer - 1,15,30
+Arista Networks,Software Engineer,15.9,29.5
+Arista Networks,Software Engineer Intern,15.9,29.5
+Arista,,,29.5
+Morgan Stanley,Technology Analyst Intern,13,29.48
+Okta,Software Engineer,13.75,27.95
+Couchbase,Dev,20,27.15
+Couchbase,QE,20,27.15
+Couchbase,Support,20,27.15
+Coinbase,Software Development Engineer - 1,16.05,26.75
+Amazon,AWS Cloud Support Associate,10.46,26.35
+Samsung Semiconductors,Software Engineer (Embedded),19,25.85
+Wokelo,Data Scientist,15,25
+SAP Labs,Dev,10,25
+SAP Labs,DevOps,10,25
+SAP Labs,Support,10,25
+SAP Labs,QA,10,25
+HackerRank,Software Development Engineer - 1,,25
+CoinSwitch,,,24
+Wayfair,,,24
+Renesas,Analog Engineer,15,23.1
+Renesas,Validation Engineer,15,23.1
+Renesas,Digital Design Engineer,15,23.1
+Renesas,Test Engineer,15,23.1
+Tesco,Graduate Engineer,18,23
+Cloudera,Software Engineer - 1,17,23
+NXP Semiconductors,Software Engineer,15.5,23
+DealShare,Software Development Engineer,13,23
+Truva,Software Engineer,13,23
+StockX,Associate Software Engineer,20,22.6
+Walmart,Software Development Engineer - 2,16.88,22.6
+Komprise,Software Engineer,17.41,22
+Urban Company,Software Development Engineer - 1,16,22
+Singularity Dynamics,Software Development Engineer,13,22
+MakeMyTrip,Software Engineer,12,22
+Cadence Design Systems,,,22
+Serko,Software Engineer,,21.28
+CBX1,Software Engineer,17,21
+Meesho,Business Analyst,13,21
+Deutsche Bank,Graduate Analyst,,20.2
+Typeface,Software Engineer,16,20
+Komprise,Software Test Engineer,15.54,20
+Multiplier,Associate Software Engineer,15,20
+Vyapar App,Software Engineer - 1,12,20
+F5 ,Software Engineer Intern,,20
+NetApp,Software Engineer (Cloud),,20
+Akamai Technologies,Software Engineer,14.36,19.89
+Akamai Technologies,SDET,14.36,19.89
+Akamai Technologies,,14.36,19.89
+JPMorgan Chase & Co.,Software Engineer Intern,13.5,19.5
+Applied Materials,,,19.5
+Oracle,Associate Application Developer,14.5,19.18
+American Express,Engineer Trainee,13.87,19.15
+Superjoin,Engineering Explorer,13,19
+Gupshup Technologies,,,19
+Lowe's,Associate Software Engineer,14.15,18.76
+IBM,Software Developer (Systems),17,18.75
+IBM,Software Developer (Software Labs),17,18.75
+IBM,Software Developer (Cloud),17,18.75
+Amagi,Product Software Engineer,15.17,18.17
+IDFC First Bank,Application Engineer,14,18.1
+Rapido,Associate Product Engineer,15,18
+Cynlr,Software Developer,14,18
+RTCamp,WordPress Developer,,18
+Sixt,Software Development Engineer - 1,13,17.5
+HPE,Software Engineer (R&D),12,17.5
+HPE,Software Engineer (Operations),12,17.5
+HPE,Software Engineer (CTY),12,17.5
+Druva Inc.,,,17.5
+Ion Group,,,17.3
+Dezerv,Software Engineer,15,17
+BT Group,Software Engineering Professional,13,17
+Dolat Capital,Software Developer C++,,17
+Druva,,,17
+Nike,Software Engineer - 1,13.85,16.85
+Juniper Networks,Software Engineering Intern,,16.5
+Sandvine,Software Engineer,12.5,16.37
+Sandvine,Software Test Engineer,12.5,16.37
+Applied Materials,IT Solutions Management,9.46,16.3
+GE Healthcare,Edison Engineering Developer,13,16.2
+Zeta,Software Development Engineer,14.4,16
+Licious,Software Engineer,12,16
+Ciena,,,16
+Ittiam,,,16
+Aveva,Software Developer,13.5,15.8
+TOM TOM Intl.,,,15.7
+Media.net,Site Reliability Engineer,13,15.67
+Akamai Technologies,Software Engineer (Cyber Security),,15.44
+Akamai Technologies,SDET (Cyber Security),,15.44
+Gigsky,Software Engineer,14,15
+Prime Numbers,Software Engineer - 1,12,15
+Gajabuja,Associate Software Engineer,10,15
+Lemnisk,Software Engineer - 1,6,15
+Lemnisk,Software Engineer - 1 (UI),6,15
+Lemnisk,Software Engineer - Tech Integration,6,15
+Aurva,Software Engineer,,15
+Cadence,,,15
+G2,,,15
+McKesson,Software Development Engineer (Data),,15
+SigLens,,,15
+Thorogood,Data and AI Consultant,,14.81
+Gameberry Labs,Software Development Engineer,13,14.8
+Phillips,Software Engineer,11.5,14.5
+UBS Business Solutions,,,14.5
+Lam Research,Software Engineer - 1,10.9,14.49
+DISH Networks,Engineer,12,14.1
+Egnyte,Software Engineer,13,14
+Signify Innovation Lab,Assistant Development Engineer,11,14
+Netradyne,Software Development Engineer in Test,10,14
+Bain,Analyst,9.9,14
+Avaya,,,14
+Barclays,Technology Graduate Analyst,,14
+BMC Softwares,,,14
+BMC Softwares,,,14
+ConcentricAI,,,14
+Lumber,Full Stack Developer Intern,,14
+NVIDIA,,,14
+eQ Technologic,,,13.88
+Maersk Global Service Center,,,13.88
+ZS Associates,,,13.65
+IG Group,,12,13.63
+eQ Technologie (SDE),,,13.4
+Mastercard,,,13.4
+PubMatic India Pvt Ltd,,,13.39
+Talkdesk,,12,13
+Körber,Software Engineer,11.26,13
+Consuma,Software Engineer (Backend),9,13
+Pubmatic,,,13
+Seclore,Product Manager,,13
+Amadeus,Software Development Engineer - 1,10,12.6
+ACI Worldwide,,,12.5
+Flexera,Software Engineer,,12.5
+Schlumberger (SLB),,,12.5
+IDeaS,,,12.4
+Commonwealth Bank of Australia,Graduate Software Engineer,,12.3
+Societe Generale,Software Engineer,10,12.21
+Societe Generale,Cybersecurity Engineer,10,12.21
+eLitmus,Software Developer,8,12.11
+Cars24,Software Development Engineer,11.4,12
+McKinsey,Software Development Engineer,10.91,12
+General Mills,ECP Trainee,10.5,12
+ABB,Associate Software Engineer (Analytics),10,12
+BigEndian Semiconductors,ASIC Developer,10,12
+Epsilon,Software Engineer,10,12
+Fidelity Investments,Data Engineering Intern,10,12
+Fidelity Investments,Software Engineering Intern,10,12
+Infibeam,Software Development Engineer,10,12
+Jar App,Software Development Engineer - 1,10,12
+WNS Analytics,Analyst,10,12
+Baxter Healthcare,Software Engineer - 1 (Digital),9.9,12
+Baxter Healthcare,Software Engineer - 1 (Embedded),9.9,12
+Schneider Electric,Graduate Engineer Trainee,9,12
+Qest,Software Engineer,7.2,12
+OneCap,Software Development Engineer,6,12
+Aspect Ratio,,,12
+Bizom ( Mobisy Technologies Pvt Ltd ),,,12
+Candescent,Software Engineer,,12
+Cimpress,Software Engineer,,12
+ConSecure,Software Engineer - NextGen Intelligence,,12
+Dell,,,12
+Gnani,AI Engineer Intern,,12
+iNube,Software Analyst,,12
+Logik,Software Development Engineer,,12
+MortgageKart,,,12
+NCR Atleos,,,12
+Netcore,Associate Software Engineer,,12
+Physics Wallah,Software Development Trainee,,12
+Platform9,,,12
+Purple Block,Data Science Intern,,12
+Schneider Electric,,,12
+Tredence,Data Analyst,,12
+Zensar Technologies,,,12
+Northern Trust,,,11.7
+Mastercard,,,11.55
+Toshiba Software,Associate Software Engineer,10,11.5
+Havells India Limited ,IoT and Software Roles,8,11.5
+Toshiba,,,11.5
+eQ Technologic (QA),,,11.13
+AccioJob,Data Engineer,,11.1
+AccioJob,Infrastructure Engineer,,11.1
+Thoughtworks,,,11.1
+Superleap,Technical Product Analyst,6,11
+Altometa,,,11
+Cashfree Payments,DevOps Intern,,11
+Dover,Software Engineer,,11
+Energy Exemplar,Software Developement Intern,,11
+Energy Exemplar,,,11
+Hindustan Uniliver Limited,,,11
+OnlineSales.ai,,,11
+Siemens,,,11
+Siemens DISW,,,11
+Siemens Regular,,,11
+Eurofins,Associate Software Engineer,,10.75
+nVent,,,10.56
+IDeaS - A SAS Company (Associate Software Developer),,,10.5
+TIAA,,,10.48
+Conga,,,10.44
+Telstra,,9.43,10
+Oracle,Associate Consultant,9.34,10
+Tejas Networks,NMS,8.97,10
+Tejas Networks,Hardware,8.97,10
+Jar App,Data Analyst,8.1,10
+Bluebird,Software Engineer,6,10
+Consuma Technologies Pvt. Ltd.,Analyst,6,10
+Avegen,,,10
+Azentio,Software Development Engineer in Test,,10
+Bizom,Product Trainee,,10
+Broadridge,,,10
+CloudLex,,,10
+Cummins,,,10
+GKN Aerospace,Graduate Trainee,,10
+IDfy,,,10
+Philips,,,10
+SAS,,,10
+SEDEMAC Mechatronics,,,10
+ST Telemedia,,,10
+Tejas Networks,Software ,,10
+UPL,NextGen Intern,,10
+UPL,Automation Engineer,,10
+UST,,,10
+Whirpool,,,10
+Zensar,,,10
+Zoomcar,DevOps Intern,,10
+Signify Innovations India Ltd. (Cooper Lighting Solutions),,,9.87
+Havells India Limited ,Power Electronics and Solar Roles,7,9.5
+Infosys,Specialist Programmer,,9.5
+Infosys,,,9.5
+Oracle Financial Services,,,9.5
+Oracle 2,,,9.34
+PeopleBox,Software Engineer,8,9
+Altizon,,,9
+Bentley Systems,,,9
+Bhoomi Software,,,9
+Eaton Supply Chain Management,,,9
+Emplay,Associate Data Scientist,,9
+Flex Trade,,,9
+HSBC,,,9
+HummingBird Web Solutions,,,9
+Jones Lang Lasalle Technologies,,,9
+Metro GSC,,,9
+OneSubsea,,,9
+Oro Labs.AI Dev,,,9
+Principal Global,,,9
+TCS R&1,,,9
+The Digital Fifth,Analyst,,9
+Gensol EPC (Blusmart),,,8.85
+EY India,,7.5,8.59
+Merkle,Software Engineer,7,8.5
+Merkle,Analyst,7,8.5
+Aptiv,,,8.5
+HelpShift,,,8.5
+Merilytics,,,8.5
+Quantiphi,Business Analyst,,8.5
+Quantiphi,Framework Engineer,,8.5
+Quantiphi,Machine Learning Engineer,,8.5
+Quantiphi,,,8.5
+AstraZeneca,,,8.43
+ICICI Bank,Software Engineer,,8.3
+Nibrus Technologies,Software Engineer Intern,6.5,8.2
+HashedIn Technologies,,,8.1
+Krazybee Services,Software Engineer,7,8
+JSW Group,Graduate Engineer Trainee,6.8,8
+Consilio,Associate,5,8
+Morphle Labs,Software Testing Intern,5,8
+Bizom,Presales,,8
+BlackBuck,Associate Software Engineer,,8
+Bounteous x Accolite,,,8
+Celstream,Software Engineer,,8
+CerenceAl,,,8
+Ciklum,,,8
+Colgate,Data Analysis,,8
+ConSecure ,Software Engineer (Next-Gen Cybersecurity),,8
+Crestron,,,8
+Digital.ai,,,8
+Embitel Technologies,Trainee Engineer,,8
+Emerson,,,8
+EPAM,Junior Software Engineer,,8
+Esyasoft Technologies,Software Engineer Trainee,,8
+Honeywell,,,8
+HP,GIT Role,,8
+KPMG,Consultant Intern,,8
+KreditBee,Software Engineer,,8
+Kylas,,,8
+Media.net,Web Application Developer,,8
+Meeraq,Software Intern,,8
+National Petroleum Construction Company (NPCC),,,8
+Nice,,,8
+Nice Systems,,,8
+Nihilent,,,8
+O9 Solutions,SDET Intern,,8
+Panzura,,,8
+Principal Global,,,8
+Promobi,,,8
+Rackware Automation,,,8
+Rockwell,,,8
+Sedemac,,,8
+Shadowfax,,,8
+Think41,,,8
+Tyfone,Software Engineer,,8
+Wissen technology,,,8
+Dassault Systems,,,7.8
+Mahanagar Gas Limited,,,7.8
+Godrej & Boyce,,,7.75
+RSM USI,,,7.7
+Delloite India,HC HRT,6,7.6
+Delloite India,QE,6,7.6
+Delloite India,ADMM,6,7.6
+Delloite India,M&C,6,7.6
+Delloite India,ET&P SAP,6,7.6
+Delloite India,FT GBS,6,7.6
+Delloite India,ET&P Oracle,6,7.6
+Delloite USI,Consulting Analyst,6,7.6
+Bizom,Business Development Manager,,7.5
+IdeaS- A SAS Company ( Product Success Specialist ),,,7.5
+Quorum,,,7.5
+Rahi Technolgies,,,7.5
+Reliance Industries Ltd,,,7.5
+Schlumberger (SLB),,,7.5
+Sell.do,,,7.5
+Tata Power,,,7.5
+Volvo,Associate Graduate Engineer,,7.5
+HP,Managed Services,,7.48
+Oracle,,,7.27
+Sun Life,Gradute Engineer Trainee,,7.25
+Evam Labs,Intern,,7.2
+Evam Labs,DS/DE/FS/UI,,7.2
+Wynum Automation,,,7.1
+PhData,Consultant,6.39,7
+KPMG,GRCS Telecom,6,7
+Webknot Technologies,Software Developer Trainee,6,7
+KPMG,Digital Trust,5,7
+KPMG, Analyst,5,7
+(NTT solutions)SAP,,,7
+7-Eleven GSC,Cybersecurity Intern,,7
+Accelya,,,7
+Bizom,Sales Developement Representative,,7
+Cencora,,,7
+DeltaX,,,7
+DeltaX,,,7
+EMIDS,Associate Software Engineer,,7
+Entrata,,,7
+Equifax,,,7
+Fractal analytics,,,7
+Honeywell,,,7
+Hourglass,,,7
+Incubyte,,,7
+Mphasis,,,7
+Mphasis,,,7
+Ninjacart,Tech Intern,,7
+Oro Labs. AΙ,,,7
+PayU,,,7
+Rhythmflow,,,7
+Ria Advisory,,,7
+TCS Digital,,,7
+TCS Digital,,,7
+Think 41,Full Stack Engineer,,7
+Tyfone,QA Engineer,,7
+Xceedance,,,7
+NCS Technologies,,,6.82
+Cognizant GenC Next,,,6.75
+Larson & Toubro,,,6.72
+Siemens Limited,,,6.6
+Greenway Health India,Associate Software Engineer,5.5,6.5
+L7 Informatics,,3.25,6.5
+Adani Group,,,6.5
+Afcons,,,6.5
+Atlas Copco Gecia,,,6.5
+Burns & Mcdonnell,,,6.5
+Cognizant,GenC,,6.5
+EY,Senior Analyst,,6.5
+Faurecia Forvia,,,6.5
+Hyosung T&D India,,,6.5
+Johnson Control,,,6.5
+Qualys,,,6.5
+Techbulls SoftTech,,,6.5
+Technimont,,,6.5
+Technip Energies,,,6.5
+GW DeepConnect Technlogies,Software Engineer,5,6.48
+Siemens Energy,,,6.38
+Columbia Sportswear Company,Software Engineer Trainee,,6.26
+Textron,,,6.25
+CCTech,,,6.2
+HomeVille,FullStack Developer,,6.1
+Sgurr Energy,,,6.1
+CreditAccess Grameen Limited,Data Analyst,5.2,6
+Snapmint,Junior Analyst,5,6
+Cubic Logics,Software Development Engineer,4.5,6
+Tsalla Aerospace,Junior Engineer,4.2,6
+BCE Global Tech,Dev,4,6
+6D Technologies,AI & Data Science Engineering Intern,,6
+Allied Softech,,,6
+Bizom,Marketing,,6
+Bizom,,,6
+Cloudstrats,,,6
+ConSecure ,PreSales,,6
+Dataeaze,,,6
+FleetGaurd Filters,,,6
+Fluidyn,,,6
+Jacobs,,,6
+L&T,Graduate Engineer Trainee,,6
+Man Truck,,,6
+miniOrange,,,6
+Nouveau Labs,Software Engineer,,6
+SecPod,Test automation Engineer,,6
+Vayavya Lab,,,6
+Wafer Space (An ACL Digital Company),,,6
+Walter P Moore,,,6
+Worley Services India Pvt Ltd,,,5.8
+NCS,,,5.62
+MathCo (The MathCompany),Trainee Analyst,4.5,5.5
+PeopleBox,SDET,4.5,5.5
+AmpereHour Energy,,,5.5
+Capgemini,,,5.5
+Centiro,,,5.5
+DoubleTick,,,5.5
+Harman,,,5.5
+Harman,,,5.5
+Jisa Softech,,,5.5
+Smile Lab,,,5.5
+Tata Consulting Engineers (TCE),,,5.5
+Tech Mahindra,Graduate Trainee,,5.5
+Thyssenkrupp,,,5.5
+Toyo Engineering,,,5.5
+Wipro,"Turbo Telecom, Automotive, Embedded & CPPE",,5.5
+Ellicium,,,5.1
+Cognizant,,,5
+ConSecure,Software Engineer - Full Stack Dev,,5
+Eximietas Design,Engineer,,5
+Healthasyst,Software Developer Trainee,,5
+International Design & Engg. Sol.,,,5
+Invimatic,,,5
+Jones Lang LaSalle Incorporated India (JLL),,,5
+Kenscio,Software Developer Intern,,5
+Safran Engineering service,,,5
+Tsalla Aerospace,Junior Engineer,,5
+Winman Software,Software Engineer - L2,,5
+IBM,Assoicate System Engineer,,4.75
+Winman Software,Software Engineer - L1,3.75,7.2
+Accenture,Associate Software Engineer,,4.5
+Adani Cement,,,4.5
+Ascendion,Associate Engineer,,4.5
+Bosch,,,4.5
+Cognizant,,,4.5
+Healthasyst,Software QA Trainee,,4.5
+IBM,,,4.5
+Quality Power,,,4.5
+TATA Technologies,,,4.5
+Telamon,,,4.5
+Torrent Power,,,4.5
+Capgimini,4.25 LPA Role,,4.25
+Enpro Industries,,,4.25
+Eram Magnaflux,,,4.25
+HCLTech,Graduate Engineer Trainee,,4.25
+Rudder Analytics,,,4.2
+Shah Technical Consultant,,,4.2
+LTIMindTree,Graduate Engineer Trainee,,4.05
+Arys Garage,Software Engineer,,4
+Cognizant GenC,,,4
+Microland,Engineering Trainee,,4
+SimplyFI Softech,Innovation Trainee & Innovation Engineer,,4
+VRF Aircon Pvt Ltd,,,4
+CGI,Associate Software Engineer,,3.92
+Nagarjuna Construction Company (NCC),,,3.75
+Shapoorji PallonJi,,,3.75
+Infosys,Systems Engineer,,3.6
+Infosys,,,3.6
+Wipro,"Elite - Telecom, Automotive, Embedded & CPPE",,3.5
+TCS Ninja,,,3.3
+Tech Mahindra,Graduate Trainee,,3.25
