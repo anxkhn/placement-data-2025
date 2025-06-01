@@ -1,6 +1,8 @@
 Company Name,Role,Base,CTC
 Rubrik,,,145
 Atlassian,Software Engineer,,85
+Pace Stock Broking,Multiple Profiles,30,75
+Databricks,Software Engineer,39.6,68.36
 Apple,Software Development Intern (IS&T),16,65
 Apple,Software Development Intern (Ops),16,65
 Apple,Data Science and ML Intern (Ops),16,65
@@ -11,46 +13,111 @@ Zomato,Software Development Engineer - 1,24,56
 CRED,,,55
 D. E. Shaw,Software Development Engineer in Test,18,52
 Google,,,52
+Plutus Research Pvt. Ltd.,Multiple Profiles,24,51.5
+Microsoft,Software Engineering,15,51.03
 Microsoft Inc.,,,51
+NUTANIX,Multiple Profiles,23,50.57
 Meesho,Data Scientist - 1,22,50
+Meesho,Data Scientist - I,22,50
+JAVIS,AI Product Manager,27,48.6
+Meesho,SDE,20,46
+26 Miles Capital,Quant Researcher,24,45
+Zomato,Product Analyst,18,44
 Amazon,,,42
 Palo Alto Networks,Software Engineer,14,41.96
 Palo Alto Networks,Business Systems Analyst,14,41.96
 Visa,Software Engineer,16.57,41.64
+Mihup,MLS,36,40
+Samsung Bangalore,Engineer / Senior Engineer - Advanced Developer,15.19,40
+Media.net,SDE,18,39.31
+GOOGLE,Software Engineer,21,38.99
+Texas Instruments,Embedded Software Engineer,19.25,38.53
+Writesonic,Software Engineer,20,38.5
 Eightfold.ai,Product Solutions Expert - 1,16.38,37.53
+Typeface,Multiple,22,37.45
 Trilogy Innovations,Software Development Engineer Intern,30,36.5
+Harness,Software Development Engineer,23,36
+JAVIS,Software Development Engineer I (Front End),20,36
+JAVIS,Associate Product Manager (Front End),20,36
+JAVIS,Software Development Engineer I (Backend Java),20,36
+JAVIS,Associate Product Manager (Backend),20,36
+Meesho,Multiple Profiles,16,36
+Wells Fargo,Program Analyst,24,35
+Confluent,Software Engineer,23,35
 InMobi,Software Development Engineer - 1,22,35
 BitGo,Software Engineer,15,35
+ORACLE,Multiple Profiles,17.78,34.1
 Meesho,Software Development Engineer,20,34
 Paypal,Software Engineer Intern,15,34
 Paypal,Data Science Intern,15,34
 Phonepe,,,33.57
 Palo Alto,,,33.33
 Commvault,Software Development Engineer,16,33
-Cleartrip,Software Development Engineer - 1,18,32.57
 Flipkart,Software Development Engineer - 1,18,32.57
+Cleartrip,Software Development Engineer - 1,18,32.57
+Trilogy Innovations (CODENATION),Software Development Engineer,30,32.5
 PhonePe,Software Engineer,19.5,32.5
+Findoc,Quantative Researcher,20,32.36
+Findoc,Software Developer,20,32.36
 Expedia Group,Software Development Engineer - 1,15,32
+NVIDIA,ASIC Engineer,23.86,31.86
+NVIDIA,System Software Engineer,17.5,31.86
+NVIDIA,Formal Verification Engineer,17.5,31.86
+AQR Capital India Services LLP,Analyst,23.1,31.61
+Myntra,SDE,18,30.5
+Formi,Deep Learning Engineer,18,30.5
+JAVIS,Customer Success Manager I,16.8,30.24
+LG Ads Solutions(Alphonso),Software Engineer,30,30
+Winzo games,Software Developer,25.5,30
 Vyapar App,Software Engineer - 1,15,30
+Raam Group,Next Gen Leader,10,30
 Arista Networks,Software Engineer,15.9,29.5
 Arista Networks,Software Engineer Intern,15.9,29.5
 Arista,,,29.5
 Morgan Stanley,Technology Analyst Intern,13,29.48
+Zomato,Software Development Engineer,24,29
+Cohesity,Member of Technical Staff,21,28.63
 Okta,Software Engineer,13.75,27.95
 Couchbase,Dev,20,27.15
 Couchbase,QE,20,27.15
 Couchbase,Support,20,27.15
+InMOBI,Software Development Engineer,22,27
+BROWSER STACK,Software Engineer- Backend,20.35,27
 Coinbase,Software Development Engineer - 1,16.05,26.75
+BNY Mellon,Multiple Profiles,17,26.64
+FLIPKART,Associate Product Manager,18,26.57
+Piramal Group,Tech,17,26.5
 Amazon,AWS Cloud Support Associate,10.46,26.35
+ARISTA NETWORK,Software engineer,18,26.11
+Schlumberger,Full Stack Software Engineer,19.38,26.07
+CARS24,Software Development Engineer,24,26
+Infoedge,Data Scientist,18,26
 Samsung Semiconductors,Software Engineer (Embedded),19,25.85
+Mastercard,Data Scientist I,22,25.8
+HiLabs,Associate Product Manager,19,25.75
+HiLabs,Data Scientist,19,25.75
+HiLabs,Software Development Engineer,19,25.75
+Formi,Software Engineer - Systems Generalist,12,25.5
+WALMART,Software Development Engineer,17.8,25.25
+Discovery India,SDE,18,25
+Blitz,Software Development Engineer,17,25
 Wokelo,Data Scientist,15,25
 SAP Labs,Dev,10,25
 SAP Labs,DevOps,10,25
 SAP Labs,Support,10,25
 SAP Labs,QA,10,25
 HackerRank,Software Development Engineer - 1,,25
-CoinSwitch,,,24
+GreyOrange,Engineer – Software Development,,25
+Thoughtspot,Member of Technical Staff,24.65,24.65
+Siemens,Multiple Profiles,16.32,24.02
+Siteform,Software Engineer,20,24
+Optym,Software Engineer – Backend,18,24
 Wayfair,,,24
+CoinSwitch,,,24
+Sciforn Solutions,Full Stack Web Developer,18,23.86
+Quantum Street AI,Associate Software Engineer,15,23.76
+FischerJordan,Multiple Profiles,15,23.63
+Target Corporation,Data Engineer,18,23.26
 Renesas,Analog Engineer,15,23.1
 Renesas,Validation Engineer,15,23.1
 Renesas,Digital Design Engineer,15,23.1
@@ -58,25 +125,53 @@ Renesas,Test Engineer,15,23.1
 Tesco,Graduate Engineer,18,23
 Cloudera,Software Engineer - 1,17,23
 NXP Semiconductors,Software Engineer,15.5,23
-DealShare,Software Development Engineer,13,23
 Truva,Software Engineer,13,23
+DealShare,Software Development Engineer,13,23
+Commonwealth Bank of Australia,Graduate Data Scientist,18,22.81
 StockX,Associate Software Engineer,20,22.6
 Walmart,Software Development Engineer - 2,16.88,22.6
+FischerJordan,Data Analyst,14,22.3
+Komprise,Software Engineer,22,22
 Komprise,Software Engineer,17.41,22
 Urban Company,Software Development Engineer - 1,16,22
+Netradyne Technology Pvt Ltd,Multiple Profiles,16,22
+GreyOrange,Engineer Software Verification,16,22
 Singularity Dynamics,Software Development Engineer,13,22
 MakeMyTrip,Software Engineer,12,22
 Cadence Design Systems,,,22
+Hansa Solutions,Code Crafters,21,21.92
+DEUTSCHE BANK,Graduate Analyst,20.21,21.71
+UKG,Software Engineer,14,21.62
+Samsung Delhi,Software Developer Engineer,14.5,21.5
+Samsung Noida,R&D Engineer,,21.5
+Samsung Noida,R&D Engineer,,21.5
+Serko,Software Engineer-IC2,18,21.29
 Serko,Software Engineer,,21.28
+Media.net,Sr Product Analyst,16,21.2
+Aira Matrix,Trainee Engineer,19.06,21
 CBX1,Software Engineer,17,21
+CDOT,Scientist B,16.87,21
+Schneider Electric,Graduate Engineer Trainee,15.26,21
 Meesho,Business Analyst,13,21
+Bajaj Auto,GTE,12.3,20.74
+GAIL,Executive Trainee (Electrical),20.57,20.57
 Deutsche Bank,Graduate Analyst,,20.2
+BPCL,Marketing/Operations & Refinery,,20.11
+Oil India Limited,GET (core),18.5,20
+Saviynt,Associate Engineer,18,20
+Cashfree,Software Development Engineer 1,18,20
 Typeface,Software Engineer,16,20
 Komprise,Software Test Engineer,15.54,20
 Multiplier,Associate Software Engineer,15,20
+Groww,Associate Business Analyst,14,20
+FPL Technologies,Data Scientist,13,20
+FPL Technologies,Software Engineer,13,20
 Vyapar App,Software Engineer - 1,12,20
-F5 ,Software Engineer Intern,,20
+Citymall,Product Analyst,10,20
 NetApp,Software Engineer (Cloud),,20
+F5,Software Engineer Intern,,20
+Petronet LNG Limited,Graduate Engineer Trainee (GET),17.43,19.92
+Petronet LNG Limited,Graduate Engineer Trainee (GET),17.43,19.92
 Akamai Technologies,Software Engineer,14.36,19.89
 Akamai Technologies,SDET,14.36,19.89
 Akamai Technologies,,14.36,19.89
@@ -84,257 +179,444 @@ JPMorgan Chase & Co.,Software Engineer Intern,13.5,19.5
 Applied Materials,,,19.5
 Oracle,Associate Application Developer,14.5,19.18
 American Express,Engineer Trainee,13.87,19.15
+Suki.ai,Software Development Engineer in Test (Women Only),19,19
 Superjoin,Engineering Explorer,13,19
+Nation with Namo,Associate Political Consultant,10.2,19
 Gupshup Technologies,,,19
 Lowe's,Associate Software Engineer,14.15,18.76
 IBM,Software Developer (Systems),17,18.75
 IBM,Software Developer (Software Labs),17,18.75
 IBM,Software Developer (Cloud),17,18.75
+Muses Consulting,Founding Full Stack Engineer,15,18.75
+Optum,Full Stack Engineer,15.5,18.5
 Amagi,Product Software Engineer,15.17,18.17
 IDFC First Bank,Application Engineer,14,18.1
+Sprinklr,AI Operations Engineer,18,18
+QuickSell (Apport Technologies),Backend Engineer,18,18
+QuickSell (Apport Technologies),Frontend Engineer,18,18
+VGuard Industries Ltd.,Multiple Profiles,16.2,18
 Rapido,Associate Product Engineer,15,18
+Propertyguru Technologies,Graduate Engineer,15,18
 Cynlr,Software Developer,14,18
+Barco,Software Development Engineer,12.94,18
+Cleartax,Product Analyst,12,18
 RTCamp,WordPress Developer,,18
+HCL Tech,Multiple Profiles,,18
+Indian Oil Corporation Limited,Officer/Engineer in Grade A,15.39,17.79
+Mastercard,Associate Consultant,15,17.73
+Genpact,Business Analyst,15,17.5
 Sixt,Software Development Engineer - 1,13,17.5
 HPE,Software Engineer (R&D),12,17.5
 HPE,Software Engineer (Operations),12,17.5
 HPE,Software Engineer (CTY),12,17.5
 Druva Inc.,,,17.5
+H P C L,Officer- Engineering,15.01,17.41
 Ion Group,,,17.3
+Gnani,AI Research Engineer,15,17.25
+Standard Chartered,SDE,15.66,17.22
+UIDAI,Technical Executive,17,17
+PRAMANA,Engineer - Software,17,17
+AspectRatio,Analyst,16,17
+Dezerv Investments,Software Engineer,15,17
 Dezerv,Software Engineer,15,17
+Forsys Inc,Associate Software Engineer,13.16,17
 BT Group,Software Engineering Professional,13,17
-Dolat Capital,Software Developer C++,,17
 Druva,,,17
+Dolat Capital,Software Developer C++,,17
 Nike,Software Engineer - 1,13.85,16.85
+Publicis Sapient,Associate Software Development Engineer,15,16.68
+ICICI,Manager 1,10.51,16.51
+Eleation,CAE Project Engineer,12.6,16.5
+FLIPKART,Assistant Manager - Business Development,12,16.5
 Juniper Networks,Software Engineering Intern,,16.5
 Sandvine,Software Engineer,12.5,16.37
 Sandvine,Software Test Engineer,12.5,16.37
 Applied Materials,IT Solutions Management,9.46,16.3
 GE Healthcare,Edison Engineering Developer,13,16.2
+Xion Multiventures,Trainee Trader and Research,9.6,16.2
+SEDEMAC Mechatronics Pvt. Ltd.,"Engineer, Embedded Software",16,16
+SEDEMAC Mechatronics Pvt. Ltd.,Multiple Profiles,16,16
+Impactsure,Data Science Associate,16,16
+Turing,Data Scientist,15.59,16
+Qualcomm,Multiple Profiles,15,16
 Zeta,Software Development Engineer,14.4,16
+Nykaa,SDET (QA Automation),14,16
 Licious,Software Engineer,12,16
-Ciena,,,16
+BlacknGreen,Inovation Engineer,12,16
+ADDVERB,GET - Mobile Robotics-Software,10.45,16
+ADDVERB,GET - Mobile Robotics-Software,10.45,16
 Ittiam,,,16
+Ciena,,,16
+ACCENTURE,MC Delivery Associate,12,15.92
 Aveva,Software Developer,13.5,15.8
+Schlumberger,Electrical Component Hardware Engineer,14.57,15.71
+Schlumberger,Electrical Engineer,14.57,15.71
 TOM TOM Intl.,,,15.7
 Media.net,Site Reliability Engineer,13,15.67
 Akamai Technologies,Software Engineer (Cyber Security),,15.44
 Akamai Technologies,SDET (Cyber Security),,15.44
+ixigo,Software Engineer,15,15
+Hexaware Technologies,SPGET,15,15
+Beltech AI Private Limited,Data Scientist,15,15
+Consultadd Services,Associate Software Engineer,14.97,15
+KPIT Technologies,Senior Software Engineer,14.5,15
+Ananant Systems,Multiple Profiles,14.26,15
 Gigsky,Software Engineer,14,15
+SIRIONLABS,Associate Software Engineer,13.6,15
+Auroville Investment Management,Multiple Profiles,13.5,15
+JK Tech,Associate Consultant,13,15
+Tescra,Software Engineer,12,15
 Prime Numbers,Software Engineer - 1,12,15
 Gajabuja,Associate Software Engineer,10,15
 Lemnisk,Software Engineer - 1,6,15
 Lemnisk,Software Engineer - 1 (UI),6,15
 Lemnisk,Software Engineer - Tech Integration,6,15
-Aurva,Software Engineer,,15
-Cadence,,,15
-G2,,,15
-McKesson,Software Development Engineer (Data),,15
 SigLens,,,15
+McKesson,Software Development Engineer (Data),,15
+G2,,,15
+Flowserve,GET Engineer,,15
+Econship,Software Developer (Backend),,15
+Cadence,,,15
+Aurva,Software Engineer,,15
+Schlumberger,Mechanical Engineer,13.9,14.99
 Thorogood,Data and AI Consultant,,14.81
 Gameberry Labs,Software Development Engineer,13,14.8
 Phillips,Software Engineer,11.5,14.5
 UBS Business Solutions,,,14.5
 Lam Research,Software Engineer - 1,10.9,14.49
 DISH Networks,Engineer,12,14.1
+Axxela Advisory,Trainee Analyst,10.2,14.1
+Grid OS,Operations Associate,6,14.07
+Grid OS,SDE,6,14.07
+EPAM,Junior Software Engineer,14,14
+LightFury Games,Unreal programmer,13.54,14
 Egnyte,Software Engineer,13,14
+64squares,Data Analyst,12.9,14
 Signify Innovation Lab,Assistant Development Engineer,11,14
+SignalChip,Design Engineer,11,14
 Netradyne,Software Development Engineer in Test,10,14
 Bain,Analyst,9.9,14
-Avaya,,,14
-Barclays,Technology Graduate Analyst,,14
-BMC Softwares,,,14
-BMC Softwares,,,14
-ConcentricAI,,,14
-Lumber,Full Stack Developer Intern,,14
 NVIDIA,,,14
-eQ Technologic,,,13.88
+Lumber,Full Stack Developer Intern,,14
+HSBC,Trainee Analyst,,14
+ConcentricAI,,,14
+BMC Softwares,,,14
+BMC Softwares,,,14
+Barclays,Technology Graduate Analyst,,14
+Avaya,,,14
 Maersk Global Service Center,,,13.88
+eQ Technologic,,,13.88
+Zenoti,Software Engineer,12,13.72
 ZS Associates,,,13.65
 IG Group,,12,13.63
-eQ Technologie (SDE),,,13.4
 Mastercard,,,13.4
+eQ Technologie (SDE),,,13.4
 PubMatic India Pvt Ltd,,,13.39
+Decimal Point Analytics,Data Scientist,11.88,13.2
+ZL Technologies India Pvt Ltd,Member of Technical Staff-Software Engineer,12,13
 Talkdesk,,12,13
+ORMAE LLP,OR Scientist I,12,13
+Nucleus Software,Software Engineer,11.6,13
 Körber,Software Engineer,11.26,13
+Tiger Analytics,Trainee - Analyst,11,13
+JSW Group,Graduate Engineer Trainee,10.4,13
+Futures First,Market Analyst,10,13
 Consuma,Software Engineer (Backend),9,13
-Pubmatic,,,13
+MAQ Software,Software Engineer 1,7.36,13
 Seclore,Product Manager,,13
+Pubmatic,,,13
+Bharat Electronics,Probationary Engineer (E-II),,13
+WCB Robotics,Associate Dessign Engineer- Electronics,12.8,12.8
+WCB Robotics,Associate Dessign Engineer- Mechanical,12.8,12.8
+WCB Robotics,Associate Dessign Engineer- Robotics,12.8,12.8
 Amadeus,Software Development Engineer - 1,10,12.6
-ACI Worldwide,,,12.5
-Flexera,Software Engineer,,12.5
+ANZ Bank,Graduate/Engineer,12.5,12.5
+OYO,Young Leader Program,11.5,12.5
+Lohum Cleantech pvt ltd,Graduate Trainee,11.25,12.5
+L&T Finance,Graduate Engineer Trainee,9.38,12.5
+L&T Finance,Graduate Engineer Trainee,9.38,12.5
 Schlumberger (SLB),,,12.5
+LTIMindtree,Multiple Profiles,,12.5
+Flexera,Software Engineer,,12.5
+Bharat Electronics,"R&D, Production",,12.5
+ACI Worldwide,,,12.5
 IDeaS,,,12.4
 Commonwealth Bank of Australia,Graduate Software Engineer,,12.3
 Societe Generale,Software Engineer,10,12.21
 Societe Generale,Cybersecurity Engineer,10,12.21
+Tata Steel,Management Trainee Technical- Steel Operations,11.25,12.18
+Tata Steel,Management Trainee,11.25,12.18
 eLitmus,Software Developer,8,12.11
+Maven Magnets,Frontend Engineer,12,12
+Garaaz,Jr Computer Scientist,12,12
+Anakin Skywalker Pvt Ltd,Software Engineer,12,12
+Anakin Skywalker Pvt Ltd,Business Analyst,12,12
+AMDOCS,SDE,12,12
+Esyasoft Holding Limited,Graduate Trainee Engineer (Non-core),11.78,12
 Cars24,Software Development Engineer,11.4,12
+Hero FinCorp,Data Engineer – Graduate Trainee,11,12
+McKinsey and Company,Jr. Capabilities and Insights Analytics Analyst,10.91,12
 McKinsey,Software Development Engineer,10.91,12
-General Mills,ECP Trainee,10.5,12
-ABB,Associate Software Engineer (Analytics),10,12
-BigEndian Semiconductors,ASIC Developer,10,12
-Epsilon,Software Engineer,10,12
+Nation with Namo,Decision Scientist,10.2,12
+WNS Analytics,Analyst,10,12
+Onix,Associate Member of Technical Staff / Member of Te,10,12
+Larkai Healthcare,Cybersecurity and Blockchain Developer,10,12
+Jar App,Software Development Engineer - 1,10,12
+Infibeam,Software Development Engineer,10,12
 Fidelity Investments,Data Engineering Intern,10,12
 Fidelity Investments,Software Engineering Intern,10,12
-Infibeam,Software Development Engineer,10,12
-Jar App,Software Development Engineer - 1,10,12
-WNS Analytics,Analyst,10,12
+Epsilon,Software Engineer,10,12
+BigEndian Semiconductors,ASIC Developer,10,12
+ABB,Associate Software Engineer (Analytics),10,12
 Baxter Healthcare,Software Engineer - 1 (Digital),9.9,12
 Baxter Healthcare,Software Engineer - 1 (Embedded),9.9,12
 Schneider Electric,Graduate Engineer Trainee,9,12
+Deloitte USI Consulting,Analyst,9,12
+Lummus Technology Heat Transfer BV,Process Engineer,8.5,12
+TREDENCE,Multiple Profiles,8,12
+Acies Consulting,Multiple Profiles,8,12
+Acies Consulting,Multiple Profiles,8,12
+Acies Consulting,Multiple Profiles,8,12
 Qest,Software Engineer,7.2,12
 OneCap,Software Development Engineer,6,12
-Aspect Ratio,,,12
-Bizom ( Mobisy Technologies Pvt Ltd ),,,12
-Candescent,Software Engineer,,12
-Cimpress,Software Engineer,,12
-ConSecure,Software Engineer - NextGen Intelligence,,12
-Dell,,,12
-Gnani,AI Engineer Intern,,12
-iNube,Software Analyst,,12
-Logik,Software Development Engineer,,12
-MortgageKart,,,12
-NCR Atleos,,,12
-Netcore,Associate Software Engineer,,12
-Physics Wallah,Software Development Trainee,,12
-Platform9,,,12
-Purple Block,Data Science Intern,,12
-Schneider Electric,,,12
-Tredence,Data Analyst,,12
 Zensar Technologies,,,12
+Tredence,Data Analyst,,12
+Schneider Electric,,,12
+Purple Block,Data Science Intern,,12
+Platform9,,,12
+Physics Wallah,Software Development Trainee,,12
+Netcore,Associate Software Engineer,,12
+NCR Atleos,,,12
+MortgageKart,,,12
+Logik,Software Development Engineer,,12
+Krowmaerd Private Limited,Venture Associate,,12
+iNube,Software Analyst,,12
+Gnani,AI Engineer Intern,,12
+General Mills,ECP Trainee,,12
+Dell,,,12
+ConSecure,Software Engineer - NextGen Intelligence,,12
+COGNIZANT,Junior Engineer - Full Stack Developer,,12
+Class24,Educator,,12
+Cimpress,Software Engineer,,12
+Candescent,Software Engineer,,12
+Bizom ( Mobisy Technologies Pvt Ltd ),,,12
+Aspect Ratio,,,12
 Northern Trust,,,11.7
+Fluence Energy.,Multiple Profiles,11.6,11.6
 Mastercard,,,11.55
 Toshiba Software,Associate Software Engineer,10,11.5
-Havells India Limited ,IoT and Software Roles,8,11.5
+SCA Technologies,Associate Software Engineer and Software Engineer,9.2,11.5
+Havells India Limited,IoT and Software Roles,8,11.5
+ISGEC,GET,7.97,11.5
 Toshiba,,,11.5
 eQ Technologic (QA),,,11.13
+Thoughtworks,,,11.1
 AccioJob,Data Engineer,,11.1
 AccioJob,Infrastructure Engineer,,11.1
-Thoughtworks,,,11.1
+Chella Software,Software Engineer,11,11
+Sonalika Tractor,Assistant Manager,10.51,11
+Mphasis,Senior Software Engineer,10.45,11
+Mphasis,Multiple Profiles,10.45,11
+Labellerr,Multiple Profiles,9,11
+Antier Solutions Pvt Ltd.,Associate Software Engineer,8.8,11
+Infinity Learn,SDE Technology Role,8.5,11
 Superleap,Technical Product Analyst,6,11
-Altometa,,,11
-Cashfree Payments,DevOps Intern,,11
-Dover,Software Engineer,,11
+Siemens Regular,,,11
+Siemens DISW,,,11
+Siemens,,,11
+OnlineSales.ai,,,11
+Jindal Stainless,Graduate Engineer Trainee (GET),,11
+Hindustan Uniliver Limited,,,11
 Energy Exemplar,Software Developement Intern,,11
 Energy Exemplar,,,11
-Hindustan Uniliver Limited,,,11
-OnlineSales.ai,,,11
-Siemens,,,11
-Siemens DISW,,,11
-Siemens Regular,,,11
+Econship,Operation Executive (NVOCC Industry),,11
+Dover,Software Engineer,,11
+Cashfree Payments,DevOps Intern,,11
+Altometa,,,11
 Eurofins,Associate Software Engineer,,10.75
+Delta Electronics India Pvt. Ltd,Enginner,9.16,10.61
 nVent,,,10.56
 IDeaS - A SAS Company (Associate Software Developer),,,10.5
 TIAA,,,10.48
 Conga,,,10.44
+Thomson Digital,Tutor,10,10
+Prism Johnson Limited,Assistant Manager - Commercial & Special Projects,10,10
+Nihilent,AI/ML Engineer,10,10
+Nihilent,Data Engineer,10,10
+Nihilent,Cloud Engineer,10,10
+Evalueserve,Multiple Profiles,10,10
+Edhitch,Deep Learning Engineer,10,10
+Edhitch,Data Scientist,10,10
+Edhitch,Software Developer,10,10
 Telstra,,9.43,10
+Leumas,Supply Chain Management & Operations Lead,9.4,10
 Oracle,Associate Consultant,9.34,10
+SRF,Design Trainee,9.2,10
+Nayara Energy,Graduate Engineer,9.09,10
+Next Education,Engineer- Software,9.02,10
+"Octro Inc.,",Member of Technical Staff (Eq to Data engineer),9,10
+Nine Education,Senior Faculty,9,10
+Jindal Steel & Power Limited,GET (Graduate Engineer Trainee),9,10
+Citymall,Data Analyst,9,10
+Bizacuity Solutions Pvt. Ltd.,Software Engineer,9,10
 Tejas Networks,NMS,8.97,10
 Tejas Networks,Hardware,8.97,10
+Nagarro,Multiple Profiles,8.83,10
 Jar App,Data Analyst,8.1,10
-Bluebird,Software Engineer,6,10
+TREDENCE,Data Engineering,8,10
+snapmint,Data Analyst,8,10
+QuriousBit Games Private Limited,Associate Business Analyst,8,10
+Pursuit Software,Software Development,8,10
+Leumas,Mechanical Engineering Robotics,8,10
+Leumas,Embedded Robotics Engineer,8,10
+Beghou Consulting,Associate,8,10
+Cyfuture India Pvt. Ltd.,Associate Software Engineer_AIML,7.85,10
+Cyfuture India Pvt. Ltd.,Associate Software Engineer (Trainee),7.85,10
+Cyfuture India Pvt. Ltd.,Solution Architect (Trainee),7.85,10
+Cyfuture India Pvt. Ltd.,Cloud Support Engineer (Trainee),7.85,10
+Frinks AI,Software Engineer,7,10
+UnORG Vendor Solutions Private Limited,Associate Profit Centre Head,6,10
 Consuma Technologies Pvt. Ltd.,Analyst,6,10
-Avegen,,,10
-Azentio,Software Development Engineer in Test,,10
-Bizom,Product Trainee,,10
-Broadridge,,,10
-CloudLex,,,10
-Cummins,,,10
-GKN Aerospace,Graduate Trainee,,10
-IDfy,,,10
-Philips,,,10
-SAS,,,10
-SEDEMAC Mechatronics,,,10
-ST Telemedia,,,10
-Tejas Networks,Software ,,10
+Bluebird,Software Engineer,6,10
+Zoomcar,DevOps Intern,,10
+Zensar,,,10
+Whirpool,,,10
+UST,,,10
 UPL,NextGen Intern,,10
 UPL,Automation Engineer,,10
-UST,,,10
-Whirpool,,,10
-Zensar,,,10
-Zoomcar,DevOps Intern,,10
+Tejas Networks,Software,,10
+ST Telemedia,,,10
+SEDEMAC Mechatronics,,,10
+SAS,,,10
+Philips,,,10
+IDfy,,,10
+GKN Aerospace,Graduate Trainee,,10
+Cummins,,,10
+CloudLex,,,10
+Broadridge,,,10
+Bizom,Product Trainee,,10
+Azentio,Software Development Engineer in Test,,10
+Avegen,,,10
 Signify Innovations India Ltd. (Cooper Lighting Solutions),,,9.87
-Havells India Limited ,Power Electronics and Solar Roles,7,9.5
+Maruti Suzuki India Ltd.,Graduate Engineer Trainee,7.75,9.56
+Reliance Industries Limited,Graduate Engineer Trainee,9.5,9.5
+Reliance Industries Limited,Graduate Engineer Trainee,9.5,9.5
+Pentair Water India,"Associate Engineer, Trainee",8.5,9.5
+Pentair Water India,Assistant Engineer Trainee,8.5,9.5
+Pentair Water India,"Trainee Associate Engineer, Water Chemistry Lab",8.5,9.5
+Havells India Limited,Power Electronics and Solar Roles,7,9.5
+Oracle Financial Services,,,9.5
 Infosys,Specialist Programmer,,9.5
 Infosys,,,9.5
-Oracle Financial Services,,,9.5
 Oracle 2,,,9.34
+QBit Labs,R&D Engineer Trainee (DSP),8.73,9.33
+Chaitanya's Academy,Trainee Faculty,7.2,9.2
+FN Mathlogic,Analyst,7,9.1
+Tata Consultancy Services,Multiple Profiles,,9.08
+E Ring,Software Engineer I,9,9
+TVS Motors,Senior Engineer,8.39,9
+Decimal Point Analytics,SDE,8.1,9
 PeopleBox,Software Engineer,8,9
-Altizon,,,9
-Bentley Systems,,,9
-Bhoomi Software,,,9
-Eaton Supply Chain Management,,,9
-Emplay,Associate Data Scientist,,9
-Flex Trade,,,9
-HSBC,,,9
-HummingBird Web Solutions,,,9
-Jones Lang Lasalle Technologies,,,9
-Metro GSC,,,9
-OneSubsea,,,9
-Oro Labs.AI Dev,,,9
-Principal Global,,,9
-TCS R&1,,,9
 The Digital Fifth,Analyst,,9
+TCS R&1,,,9
+Tata Consultancy Services,Systems Engineer,,9
+Principal Global,,,9
+Oro Labs.AI Dev,,,9
+OneSubsea,,,9
+Metro GSC,,,9
+Jones Lang Lasalle Technologies,,,9
+HummingBird Web Solutions,,,9
+HSBC,,,9
+Flex Trade,,,9
+Emplay,Associate Data Scientist,,9
+Eaton Supply Chain Management,,,9
+Bhoomi Software,,,9
+Bentley Systems,,,9
+Altizon,,,9
 Gensol EPC (Blusmart),,,8.85
 EY India,,7.5,8.59
 Merkle,Software Engineer,7,8.5
 Merkle,Analyst,7,8.5
-Aptiv,,,8.5
-HelpShift,,,8.5
-Merilytics,,,8.5
+Quantiphi,Multiple Profiles,6.5,8.5
 Quantiphi,Business Analyst,,8.5
 Quantiphi,Framework Engineer,,8.5
 Quantiphi,Machine Learning Engineer,,8.5
 Quantiphi,,,8.5
+Merilytics,,,8.5
+HelpShift,,,8.5
+Aptiv,,,8.5
 AstraZeneca,,,8.43
+Resonance Hyderabad,Trainee Faculty,7.56,8.4
 ICICI Bank,Software Engineer,,8.3
 Nibrus Technologies,Software Engineer Intern,6.5,8.2
 HashedIn Technologies,,,8.1
+Mygate,Associate Software Engineer,8,8
+Maven Magnets,Data Scientist,8,8
+Jindal Power,GET,8,8
+ITS Planners and Engineers Private Limited,Hardware Engineering,8,8
+ITS Planners and Engineers Private Limited,Multiple Profiles,8,8
+Easy Insights,Frontend Developer,8,8
+Easy Insights,Product Marketing Associate,8,8
+Easy Insights,Data Engineer,8,8
+DOMO,Production Engineer / Operators,8,8
+Husk Power Systems,Embedded Engineer,7.2,8
+Air Liquide Global E&C Solution India,Trainee Engineer,7.1,8
+Transorg Analytics,Data Analyst,7,8
 Krazybee Services,Software Engineer,7,8
+ITS Planners and Engineers Private Limited,Data Scientist,7,8
+Empyreal Galaxy,Software Engineer,7,8
+Decision Point,Business Analyst,7,8
+Decision Point,Data Scientist,7,8
 JSW Group,Graduate Engineer Trainee,6.8,8
-Consilio,Associate,5,8
+Sunstone Education Technology Private Limited,Graduate Trainee,6.5,8
+AMG Technologies LLP (Edu-versity),Business Development Specialist,6.5,8
+Raam Group,Management Trainee,6,8
+Ichelon Consulting Group,Entrepreneur In Residence (EIR),6,8
+Acengage,Data Scientist,6,8
 Morphle Labs,Software Testing Intern,5,8
-Bizom,Presales,,8
-BlackBuck,Associate Software Engineer,,8
-Bounteous x Accolite,,,8
-Celstream,Software Engineer,,8
-CerenceAl,,,8
-Ciklum,,,8
-Colgate,Data Analysis,,8
-ConSecure ,Software Engineer (Next-Gen Cybersecurity),,8
-Crestron,,,8
-Digital.ai,,,8
-Embitel Technologies,Trainee Engineer,,8
-Emerson,,,8
-EPAM,Junior Software Engineer,,8
-Esyasoft Technologies,Software Engineer Trainee,,8
-Honeywell,,,8
-HP,GIT Role,,8
-KPMG,Consultant Intern,,8
-KreditBee,Software Engineer,,8
-Kylas,,,8
-Media.net,Web Application Developer,,8
-Meeraq,Software Intern,,8
-National Petroleum Construction Company (NPCC),,,8
-Nice,,,8
-Nice Systems,,,8
-Nihilent,,,8
-O9 Solutions,SDET Intern,,8
-Panzura,,,8
-Principal Global,,,8
-Promobi,,,8
-Rackware Automation,,,8
-Rockwell,,,8
-Sedemac,,,8
-Shadowfax,,,8
-Think41,,,8
-Tyfone,Software Engineer,,8
+Consilio,Associate,5,8
 Wissen technology,,,8
-Dassault Systems,,,7.8
+Tyfone,Software Engineer,,8
+Think41,,,8
+Shadowfax,,,8
+Sedemac,,,8
+Rockwell,,,8
+Rackware Automation,,,8
+Promobi,,,8
+Principal Global,,,8
+Panzura,,,8
+O9 Solutions,SDET Intern,,8
+Nihilent,,,8
+Nice Systems,,,8
+Nice,,,8
+National Petroleum Construction Company (NPCC),,,8
+Meeraq,Software Intern,,8
+Media.net,Web Application Developer,,8
+Mahindra and Mahindra,Graduate and Post Graduate Engineer Trainee,,8
+Kylas,,,8
+KreditBee,Software Engineer,,8
+KPMG,Consultant Intern,,8
+HP,GIT Role,,8
+Honeywell,,,8
+Esyasoft Technologies,Software Engineer Trainee,,8
+EPAM,Junior Software Engineer,,8
+Emerson,,,8
+Embitel Technologies,Trainee Engineer,,8
+Digital.ai,,,8
+Crestron,,,8
+ConSecure,Software Engineer (Next-Gen Cybersecurity),,8
+Colgate,Data Analysis,,8
+Ciklum,,,8
+CerenceAl,,,8
+Celstream,Software Engineer,,8
+Bounteous x Accolite,,,8
+BlackBuck,Associate Software Engineer,,8
+Bizom,Presales,,8
 Mahanagar Gas Limited,,,7.8
+Dassault Systems,,,7.8
 Godrej & Boyce,,,7.75
 RSM USI,,,7.7
+Delloite USI,Consulting Analyst,6,7.6
 Delloite India,HC HRT,6,7.6
 Delloite India,QE,6,7.6
 Delloite India,ADMM,6,7.6
@@ -342,159 +624,190 @@ Delloite India,M&C,6,7.6
 Delloite India,ET&P SAP,6,7.6
 Delloite India,FT GBS,6,7.6
 Delloite India,ET&P Oracle,6,7.6
-Delloite USI,Consulting Analyst,6,7.6
-Bizom,Business Development Manager,,7.5
-IdeaS- A SAS Company ( Product Success Specialist ),,,7.5
-Quorum,,,7.5
-Rahi Technolgies,,,7.5
-Reliance Industries Ltd,,,7.5
-Schlumberger (SLB),,,7.5
-Sell.do,,,7.5
-Tata Power,,,7.5
+K12 Techno Services Pvt. Ltd.,Academic Manager- OCFP (ORCHIDS Career Foundation,7.5,7.5
+Vimo,Automation QA,7.2,7.5
 Volvo,Associate Graduate Engineer,,7.5
+Tata Power,,,7.5
+Sell.do,,,7.5
+Schlumberger (SLB),,,7.5
+Reliance Industries Ltd,,,7.5
+Rahi Technolgies,,,7.5
+Quorum,,,7.5
+IdeaS- A SAS Company ( Product Success Specialist ),,,7.5
+Bizom,Business Development Manager,,7.5
 HP,Managed Services,,7.48
 Oracle,,,7.27
+AAKASH Educational Institute,Asst Lecturer,7.25,7.25
 Sun Life,Gradute Engineer Trainee,,7.25
+Axis IIT/NEET,Marketing(Marketing and Management),5.4,7.2
+Axis IIT/NEET,Trainee Faculty,5.4,7.2
+Winman Software,Software Engineer - L1,3.75,7.2
+Narayan Group of Education,Associate Trainee,,7.2
 Evam Labs,Intern,,7.2
 Evam Labs,DS/DE/FS/UI,,7.2
 Wynum Automation,,,7.1
+Xindus Technologies,"QA Engineer, Frontend and Backend Dev Trainee",7,7
+Skyroot Aerospace,Engineer,7,7
+K12 Techno Services Pvt. Ltd.,OCFP Faculty,7,7
+Ideametrics,R&D Engineer- New Product Development,7,7
+Dimensionless.ai,Full Stack Developer,7,7
 PhData,Consultant,6.39,7
-KPMG,GRCS Telecom,6,7
+Ex Navodayan Foundation,Teaching Faculty,6.3,7
+Star Alucast,Junior Metallurgist,6.22,7
 Webknot Technologies,Software Developer Trainee,6,7
+Robust Results Private Limited,Junior Physics Faculty,6,7
+Robust Results Private Limited,Junior Chemistry Faculty,6,7
+Robust Results Private Limited,Junior Maths Faculty,6,7
+Robust Results Private Limited,Software Developer,6,7
+KPMG,GRCS Telecom,6,7
+Ajax Engineering,Graduate Engineer Trainee (GET),6,7
 KPMG,Digital Trust,5,7
-KPMG, Analyst,5,7
-(NTT solutions)SAP,,,7
-7-Eleven GSC,Cybersecurity Intern,,7
-Accelya,,,7
-Bizom,Sales Developement Representative,,7
-Cencora,,,7
-DeltaX,,,7
-DeltaX,,,7
-EMIDS,Associate Software Engineer,,7
-Entrata,,,7
-Equifax,,,7
-Fractal analytics,,,7
-Honeywell,,,7
-Hourglass,,,7
-Incubyte,,,7
-Mphasis,,,7
-Mphasis,,,7
-Ninjacart,Tech Intern,,7
-Oro Labs. AΙ,,,7
-PayU,,,7
-Rhythmflow,,,7
-Ria Advisory,,,7
-TCS Digital,,,7
-TCS Digital,,,7
-Think 41,Full Stack Engineer,,7
-Tyfone,QA Engineer,,7
+KPMG,Analyst,5,7
 Xceedance,,,7
+Tyfone,QA Engineer,,7
+Tudip Technologies,Associate Software Engineer,,7
+Think 41,Full Stack Engineer,,7
+TCS Digital,,,7
+TCS Digital,,,7
+Ria Advisory,,,7
+Rhythmflow,,,7
+PayU,,,7
+Oro Labs. AΙ,,,7
+Ninjacart,Tech Intern,,7
+Mphasis,,,7
+Mphasis,,,7
+Incubyte,,,7
+Hourglass,,,7
+Honeywell,,,7
+Fractal analytics,,,7
+Equifax,,,7
+Entrata,,,7
+EMIDS,Associate Software Engineer,,7
+DeltaX,,,7
+DeltaX,,,7
+Cencora,,,7
+Bizom,Sales Developement Representative,,7
+Avaada,Graduate Engineering Trainee,,7
+Accelya,,,7
+7-Eleven GSC,Cybersecurity Intern,,7
+(NTT solutions)SAP,,,7
+CALDERYS,Graduate Engineer Trainee,6,6.9
 NCS Technologies,,,6.82
 Cognizant GenC Next,,,6.75
 Larson & Toubro,,,6.72
+Arya.ag,ASDE,5.45,6.6
 Siemens Limited,,,6.6
 Greenway Health India,Associate Software Engineer,5.5,6.5
+Field Genie Pvt. Ltd.,AI Architect,5.25,6.5
 L7 Informatics,,3.25,6.5
-Adani Group,,,6.5
-Afcons,,,6.5
-Atlas Copco Gecia,,,6.5
-Burns & Mcdonnell,,,6.5
-Cognizant,GenC,,6.5
-EY,Senior Analyst,,6.5
-Faurecia Forvia,,,6.5
-Hyosung T&D India,,,6.5
-Johnson Control,,,6.5
-Qualys,,,6.5
-Techbulls SoftTech,,,6.5
-Technimont,,,6.5
 Technip Energies,,,6.5
+Technimont,,,6.5
+Techbulls SoftTech,,,6.5
+Qualys,,,6.5
+Johnson Control,,,6.5
+Hyosung T&D India,,,6.5
+Faurecia Forvia,,,6.5
+EY,Senior Analyst,,6.5
+Cognizant,GenC,,6.5
+Burns & Mcdonnell,,,6.5
+Atlas Copco Gecia,,,6.5
+Afcons,,,6.5
+Adani Group,,,6.5
 GW DeepConnect Technlogies,Software Engineer,5,6.48
 Siemens Energy,,,6.38
 Columbia Sportswear Company,Software Engineer Trainee,,6.26
 Textron,,,6.25
 CCTech,,,6.2
-HomeVille,FullStack Developer,,6.1
 Sgurr Energy,,,6.1
+HomeVille,FullStack Developer,,6.1
+SRI CHAITANYA EDUCATIONAL INSTITUTIONS,ASSOCIATIVE LECTURER IN MATHS/PHYSICS/CHEMISTRY,6,6
+Infinity Learn,Faculty,6,6
+C2L BIZ SOLUTIONS PVT LTD,Trainee Solution Architect,6,6
+Aspire IIT & Medical,Physics Faculty; Chemistry Faculty; Mathematics Fa,6,6
+AAA Global,Recruitment Analyst,5.98,6
+ALLEN CARRIER INSTT.,Trainee Faculty,5.55,6
+Bakliwal Tutorials,Trainee Faculty,5.4,6
 CreditAccess Grameen Limited,Data Analyst,5.2,6
 Snapmint,Junior Analyst,5,6
 Cubic Logics,Software Development Engineer,4.5,6
 Tsalla Aerospace,Junior Engineer,4.2,6
 BCE Global Tech,Dev,4,6
-6D Technologies,AI & Data Science Engineering Intern,,6
-Allied Softech,,,6
+Walter P Moore,,,6
+Wafer Space (An ACL Digital Company),,,6
+Vayavya Lab,,,6
+Siemens,Multiple Profiles,,6
+SecPod,Test automation Engineer,,6
+Nouveau Labs,Software Engineer,,6
+miniOrange,,,6
+Man Truck,,,6
+L&T,Graduate Engineer Trainee,,6
+Jacobs,,,6
+Fluidyn,,,6
+FleetGaurd Filters,,,6
+Dataeaze,,,6
+ConSecure,PreSales,,6
+Cloudstrats,,,6
 Bizom,Marketing,,6
 Bizom,,,6
-Cloudstrats,,,6
-ConSecure ,PreSales,,6
-Dataeaze,,,6
-FleetGaurd Filters,,,6
-Fluidyn,,,6
-Jacobs,,,6
-L&T,Graduate Engineer Trainee,,6
-Man Truck,,,6
-miniOrange,,,6
-Nouveau Labs,Software Engineer,,6
-SecPod,Test automation Engineer,,6
-Vayavya Lab,,,6
-Wafer Space (An ACL Digital Company),,,6
-Walter P Moore,,,6
+Allied Softech,,,6
+6D Technologies,AI & Data Science Engineering Intern,,6
 Worley Services India Pvt Ltd,,,5.8
 NCS,,,5.62
-MathCo (The MathCompany),Trainee Analyst,4.5,5.5
 PeopleBox,SDET,4.5,5.5
-AmpereHour Energy,,,5.5
-Capgemini,,,5.5
-Centiro,,,5.5
-DoubleTick,,,5.5
-Harman,,,5.5
-Harman,,,5.5
-Jisa Softech,,,5.5
-Smile Lab,,,5.5
-Tata Consulting Engineers (TCE),,,5.5
-Tech Mahindra,Graduate Trainee,,5.5
-Thyssenkrupp,,,5.5
-Toyo Engineering,,,5.5
+MathCo (The MathCompany),Trainee Analyst,4.5,5.5
 Wipro,"Turbo Telecom, Automotive, Embedded & CPPE",,5.5
+Toyo Engineering,,,5.5
+Thyssenkrupp,,,5.5
+Tech Mahindra,Graduate Trainee,,5.5
+Tata Consulting Engineers (TCE),,,5.5
+Smile Lab,,,5.5
+Jisa Softech,,,5.5
+Harman,,,5.5
+Harman,,,5.5
+DoubleTick,,,5.5
+Centiro,,,5.5
+Capgemini,,,5.5
+AmpereHour Energy,,,5.5
 Ellicium,,,5.1
-Cognizant,,,5
-ConSecure,Software Engineer - Full Stack Dev,,5
-Eximietas Design,Engineer,,5
-Healthasyst,Software Developer Trainee,,5
-International Design & Engg. Sol.,,,5
-Invimatic,,,5
-Jones Lang LaSalle Incorporated India (JLL),,,5
-Kenscio,Software Developer Intern,,5
-Safran Engineering service,,,5
-Tsalla Aerospace,Junior Engineer,,5
 Winman Software,Software Engineer - L2,,5
+Tsalla Aerospace,Junior Engineer,,5
+Safran Engineering service,,,5
+Kenscio,Software Developer Intern,,5
+Jones Lang LaSalle Incorporated India (JLL),,,5
+Invimatic,,,5
+International Design & Engg. Sol.,,,5
+Healthasyst,Software Developer Trainee,,5
+Eximietas Design,Engineer,,5
+ConSecure,Software Engineer - Full Stack Dev,,5
+Cognizant,,,5
+BYLD Group,R&D Engineer,,5
 IBM,Assoicate System Engineer,,4.75
-Winman Software,Software Engineer - L1,3.75,7.2
-Accenture,Associate Software Engineer,,4.5
-Adani Cement,,,4.5
-Ascendion,Associate Engineer,,4.5
-Bosch,,,4.5
-Cognizant,,,4.5
-Healthasyst,Software QA Trainee,,4.5
-IBM,,,4.5
-Quality Power,,,4.5
-TATA Technologies,,,4.5
-Telamon,,,4.5
 Torrent Power,,,4.5
-Capgimini,4.25 LPA Role,,4.25
-Enpro Industries,,,4.25
-Eram Magnaflux,,,4.25
+Telamon,,,4.5
+TATA Technologies,,,4.5
+Quality Power,,,4.5
+IBM,,,4.5
+Healthasyst,Software QA Trainee,,4.5
+Cognizant,,,4.5
+Bosch,,,4.5
+Ascendion,Associate Engineer,,4.5
+Adani Cement,,,4.5
+Accenture,Associate Software Engineer,,4.5
 HCLTech,Graduate Engineer Trainee,,4.25
-Rudder Analytics,,,4.2
+Eram Magnaflux,,,4.25
+Enpro Industries,,,4.25
+Capgimini,4.25 LPA Role,,4.25
 Shah Technical Consultant,,,4.2
+Rudder Analytics,,,4.2
 LTIMindTree,Graduate Engineer Trainee,,4.05
-Arys Garage,Software Engineer,,4
-Cognizant GenC,,,4
-Microland,Engineering Trainee,,4
-SimplyFI Softech,Innovation Trainee & Innovation Engineer,,4
 VRF Aircon Pvt Ltd,,,4
+SimplyFI Softech,Innovation Trainee & Innovation Engineer,,4
+Microland,Engineering Trainee,,4
+Cognizant GenC,,,4
+Arys Garage,Software Engineer,,4
 CGI,Associate Software Engineer,,3.92
-Nagarjuna Construction Company (NCC),,,3.75
 Shapoorji PallonJi,,,3.75
+Nagarjuna Construction Company (NCC),,,3.75
 Infosys,Systems Engineer,,3.6
 Infosys,,,3.6
 Wipro,"Elite - Telecom, Automotive, Embedded & CPPE",,3.5
