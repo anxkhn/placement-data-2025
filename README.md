@@ -2,34 +2,30 @@
 
 ## 📋 About This Repository
 
-This repository contains a comprehensive, curated list of **500+ full-time placement opportunities** and **300+ internship positions** in the Software/Tech industry across India for the 2025 graduating batch. The data includes detailed information about:
+This repository contains a comprehensive, curated list of **800+ full-time placement opportunities** and **300+ internship positions** in the Software/Tech industry across India for the 2025 graduating batch. The data includes detailed information about:
 
 - Company names and roles offered
 - Base salary and total compensation (CTC) figures
 - Internship stipends
-- Location details
-- Experience levels and job requirements
 
 ## 🎨 What's Included
 
 ### 📊 Data Sources
 
-- **Full-time Placements**: 500+ verified positions with salary details
+- **Full-time Placements**: 800+ verified positions with salary details
 - **Internships**: 300+ opportunities with stipend information
 - **Coverage**: Tier 1, 2, and 3 colleges across India
 - **Sources**: College placement cells, Reddit communities, and student-shared data
 
 ## 🔗 Quick Access Links
 
+[![800+ Full-Time Roles – CTC Breakdown](https://img.shields.io/badge/800%2B_Placements-brightgreen?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/discuss/post/6800970/800-full-time-software-tech-roles-india-ic1dp)
 [![300+ Internships – Stipends Included](https://img.shields.io/badge/300%2B_Internships-blue?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/discuss/post/6800968/300-tech-internships-with-stipends-in-in-2wla)
-[![500+ Full-Time Roles – CTC Breakdown](https://img.shields.io/badge/500%2B_Placements-brightgreen?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/discuss/post/6800970/500-full-time-software-tech-roles-india-ic1dp)
-[![600+ Combined Dataset](https://img.shields.io/badge/600%2B_Offers-Full_Time_+_Internships-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/discuss/post/6800974/600-software-tech-placements-internships-w4wv)
 
 ## 📥 Downloads
 
-[![📄 Download Full-time Placements PDF](https://img.shields.io/badge/Download_Placement_PDF-blue?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./pdfs/placement.pdf)
+[![📄 Download Placements PDF](https://img.shields.io/badge/Download_Placement_PDF-blue?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./pdfs/placement.pdf)
 [![📄 Download Internships PDF](https://img.shields.io/badge/Download_Internship_PDF-purple?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./pdfs/internship.pdf)
-[![📄 Download Combined Dataset PDF](https://img.shields.io/badge/Download_Combined_PDF-orange?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./pdfs/both.pdf)
 
 ### 📁 Repository Structure
 
@@ -40,12 +36,10 @@ This repository contains a comprehensive, curated list of **500+ full-time place
 ├── main.py                  # Data processing utilities
 ├── /pdfs/                   # 📥 Download PDFs here
 │   ├── placement.pdf        # Full-time placements PDF
-│   ├── internship.pdf       # Internships PDF
-│   └── both.pdf            # Combined dataset PDF
+│   └── internship.pdf       # Internships PDF
 └── /data/                   # 🤝 Contribute CSV data here
     ├── placement.csv        # Placement data in CSV format
-    ├── internship.csv       # Internship data in CSV format
-    └── both.csv            # Combined dataset in CSV format
+    └── internship.csv       # Internship data in CSV format
 ```
 
 ### CSV Data
