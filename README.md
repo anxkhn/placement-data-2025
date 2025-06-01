@@ -19,6 +19,18 @@ This repository contains a comprehensive, curated list of **500+ full-time place
 - **Coverage**: Tier 1, 2, and 3 colleges across India
 - **Sources**: College placement cells, Reddit communities, and student-shared data
 
+## 🔗 Quick Access Links
+
+[![300+ Internships – Stipends Included](https://img.shields.io/badge/300%2B_Internships-blue?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/discuss/post/6800968/300-tech-internships-with-stipends-in-in-2wla)
+[![500+ Full-Time Roles – CTC Breakdown](https://img.shields.io/badge/500%2B_Placements-brightgreen?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/discuss/post/6800970/500-full-time-software-tech-roles-india-ic1dp)
+[![600+ Combined Dataset](https://img.shields.io/badge/600%2B_Offers-Full_Time_+_Internships-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/discuss/post/6800974/600-software-tech-placements-internships-w4wv)
+
+## 📥 Downloads
+
+[![📄 Download Full-time Placements PDF](https://img.shields.io/badge/Download_Placement_PDF-blue?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./pdfs/placement.pdf)
+[![📄 Download Internships PDF](https://img.shields.io/badge/Download_Internship_PDF-purple?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./pdfs/internship.pdf)
+[![📄 Download Combined Dataset PDF](https://img.shields.io/badge/Download_Combined_PDF-orange?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](./pdfs/both.pdf)
+
 ### 📁 Repository Structure
 
 ```
@@ -35,16 +47,6 @@ This repository contains a comprehensive, curated list of **500+ full-time place
     ├── internship.csv       # Internship data in CSV format
     └── both.csv            # Combined dataset in CSV format
 ```
-
-## 📥 Downloads
-
-### PDF Downloads
-
-Access ready-to-use PDF versions of the complete datasets:
-
-- **[📄 Full-time Placements PDF](./pdfs/placement.pdf)** - 500+ placement opportunities
-- **[📄 Internships PDF](./pdfs/internship.pdf)** - 300+ internship positions
-- **[📄 Complete Dataset PDF](./pdfs/both.pdf)** - Combined placements + internships
 
 ### CSV Data
 
